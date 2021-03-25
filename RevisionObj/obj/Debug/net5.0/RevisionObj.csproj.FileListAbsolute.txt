@@ -1,0 +1,16 @@
+C:\Users\Theo\Bureau\git\cours_csharp\RevisionObj\bin\Debug\net5.0\RevisionObj.exe
+C:\Users\Theo\Bureau\git\cours_csharp\RevisionObj\bin\Debug\net5.0\RevisionObj.deps.json
+C:\Users\Theo\Bureau\git\cours_csharp\RevisionObj\bin\Debug\net5.0\RevisionObj.runtimeconfig.json
+C:\Users\Theo\Bureau\git\cours_csharp\RevisionObj\bin\Debug\net5.0\RevisionObj.runtimeconfig.dev.json
+C:\Users\Theo\Bureau\git\cours_csharp\RevisionObj\bin\Debug\net5.0\RevisionObj.dll
+C:\Users\Theo\Bureau\git\cours_csharp\RevisionObj\bin\Debug\net5.0\ref\RevisionObj.dll
+C:\Users\Theo\Bureau\git\cours_csharp\RevisionObj\bin\Debug\net5.0\RevisionObj.pdb
+C:\Users\Theo\Bureau\git\cours_csharp\RevisionObj\obj\Debug\net5.0\RevisionObj.csprojAssemblyReference.cache
+C:\Users\Theo\Bureau\git\cours_csharp\RevisionObj\obj\Debug\net5.0\RevisionObj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Theo\Bureau\git\cours_csharp\RevisionObj\obj\Debug\net5.0\RevisionObj.AssemblyInfoInputs.cache
+C:\Users\Theo\Bureau\git\cours_csharp\RevisionObj\obj\Debug\net5.0\RevisionObj.AssemblyInfo.cs
+C:\Users\Theo\Bureau\git\cours_csharp\RevisionObj\obj\Debug\net5.0\RevisionObj.csproj.CoreCompileInputs.cache
+C:\Users\Theo\Bureau\git\cours_csharp\RevisionObj\obj\Debug\net5.0\RevisionObj.dll
+C:\Users\Theo\Bureau\git\cours_csharp\RevisionObj\obj\Debug\net5.0\ref\RevisionObj.dll
+C:\Users\Theo\Bureau\git\cours_csharp\RevisionObj\obj\Debug\net5.0\RevisionObj.pdb
+C:\Users\Theo\Bureau\git\cours_csharp\RevisionObj\obj\Debug\net5.0\RevisionObj.genruntimeconfig.cache
