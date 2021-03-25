@@ -1,4 +1,11 @@
-﻿using System;
+﻿/*
+Programme        : Program.cs
+Date de création : 24/03/2021 TC
+Description      : page de revision du CSharp 
+Dernière modif   : 24/03/2021 TC
+*/
+
+using System;
 
 namespace RevisionObj
 {
